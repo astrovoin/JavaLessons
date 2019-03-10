@@ -1,6 +1,5 @@
 package Lesson_4;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Random;
 import java.util.Scanner;
 
